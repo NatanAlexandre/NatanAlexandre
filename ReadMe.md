@@ -1,6 +1,6 @@
 <img src = "header_eu.png" width = "1000px"> <hr style="color: white">
 <h1 align="center"> 👾 Seja Bem Vindo ao meu Git Hub 👾 </h1> <hr style="color: white">
-<br>- 📫 How to reach me **natanalexandre131901@gmail.com**
+<br>- 📫 How to reach me **natanalexandre742@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
