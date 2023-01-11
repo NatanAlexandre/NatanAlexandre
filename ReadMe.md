@@ -1,4 +1,4 @@
-<img src = "header_eu.png" width = "1000px" height = "250px">
+<img src = "header_eu.png" width = "1000px">
 <h1 align="center">Seja Bem Vindo ao meu GitHub</h1>
 <p align="center">🌱 Estudando Analise e Desenvolvimento de Sistemas<br>🤓Aqui compartilho alguns projetos e minha evolução<br>📫 Contate-me no email: natanalexandre742@gmail.com</p>
 <h2>Projetos em HTML e CSS3</h2>
