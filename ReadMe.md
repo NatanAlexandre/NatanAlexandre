@@ -6,12 +6,13 @@
 <ul>
   <li><a href="https://natanalexandre.github.io/projeto-cordel/index.html" target="_blank">Projeto Cordel</a>: Site com efeito Parallax</li>
   <li><a href="https://natanalexandre.github.io/primeiro-site/index.html" target="_blank">Projeto Android</a>: Site Totalmente responsivo</li>
+  <li><a href="https://natanalexandre.github.io/projeto-redes/index.html" target="_blank">Projeto Redes Sociais</a>: Minhas Redes</li>
 </ul>
 <div align="center"><br>
   <a href="https://github.com/NatanAlexandre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAlexandre&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
-<div style="display: inline_block" align="center">
+<div style="display: inline-block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
