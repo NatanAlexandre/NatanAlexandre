@@ -7,7 +7,7 @@
   <li><a href="https://natanalexandre.github.io/projeto-cordel/index.html" target="_blank">Projeto Cordel</a>: Site com efeito Parallax</li>
   <li><a href="https://natanalexandre.github.io/primeiro-site/index.html" target="_blank">Projeto Android</a>: Site Totalmente responsivo</li>
   <li><a href="https://natanalexandre.github.io/projeto-redes/index.html" target="_blank">Projeto Redes Sociais</a>: Minhas Redes</li>
-  <li><a href="https://natanalexandre.github.io/projeto-login/index.html" target="_blank">Projeto Login: Media Query</li>
+  <li><a href="https://natanalexandre.github.io/projeto-login/index.html" target="_blank">Projeto Login</a>: Media Query</li>
 </ul>
 <div align="center"><br>
   <a href="https://github.com/NatanAlexandre">
