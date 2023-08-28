@@ -9,7 +9,10 @@
   <li><a href="https://natanalexandre.github.io/projeto-redes/index.html" target="_blank">Projeto Redes Sociais</a>: Minhas Redes</li>
   <li><a href="https://natanalexandre.github.io/projeto-login/index.html" target="_blank">Projeto Login</a>: Media Query</li>
 </ul>
-<br>
+<div align="center"><br>
+  <a href="https://github.com/NatanAlexandre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAlexandre&layout=compact&langs_count=7&theme=dark"/>
+</div><br>
 <div style="display: inline-block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
