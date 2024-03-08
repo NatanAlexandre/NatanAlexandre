@@ -8,10 +8,15 @@
   <li><a href="https://natanalexandre.github.io/primeiro-site/index.html" target="_blank">Projeto Android</a>: Site Totalmente responsivo</li>
   <li><a href="https://natanalexandre.github.io/projeto-redes/index.html" target="_blank">Projeto Redes Sociais</a>: Minhas Redes</li>
   <li><a href="https://natanalexandre.github.io/projeto-login/index.html" target="_blank">Projeto Login</a>: Media Query</li>
+  <li><a href="https://natanalexandre.github.io/Design/Aula05/index.html" target="_blank">Projeto Coca-Cola</a>: Design</li>
 </ul>
 <div align="center"><br>
   <a href="https://github.com/NatanAlexandre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAlexandre&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanAlexandre&include=private&theme=dark&show_icons=true&hide_border=False&line_height=20&PAT_1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanAlexandre&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=False"/>
+<!--   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatanAlexandre&theme=dark&hide_border=False"/> -->
+
 </div><br>
 <div style="display: inline-block" align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
