@@ -15,8 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanAlexandre&&include=privatelangs_count=7&layout=compact&theme=dark"/></a><br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=NatanAlexandre&theme=dark&show_icons=true&hide_border=False&line_height=20"/>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanAlexandre&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=False"/>
-<!--   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatanAlexandre&theme=dark&hide_border=False"/> -->
-
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatanAlexandre&include=privatelangs_count=7&layout=compact&theme=dark"/>
 </div><br>
 <div style="display: inline-block" align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
