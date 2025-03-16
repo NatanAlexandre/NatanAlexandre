@@ -1,6 +1,6 @@
 <img src="hacker.png" alt="hacker">
 <h1 align="start"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=996&center=falso&vCenter=falso&repeat=true&random=falso&width=435&lines=Back-End+Developer" alt="Typing SVG" /></h1>
-<p align="center">🌱 Estudando Analise e Desenvolvimento de Sistemas<br>🤓Aqui compartilho alguns projetos e minha evolução<br>📫 Contate-me no email: natanalexandre742@gmail.com</p>
+<p align="center">🌱 Formado em Analise e Desenvolvimento de Sistemas<br>🤓Aqui compartilho alguns projetos e minha evolução<br>📫 Contate-me no email: natanalexandre742@gmail.com</p>
 <h2>Projetos em HTML5 e CSS3</h2>
 <br>
 <ul>
